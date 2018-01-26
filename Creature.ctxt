@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Creature
+comment0.text=\r\n\ This\ is\ the\ object\ that\ handles\ a\ NodeMap's\ interaction\ with\ other\ NodeMaps\ and\ the\ world\ around\ it\r\n\ \r\n\ @author\ Clay\ DiGiorgio\r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=Creature()
+comment2.params=
+comment2.target=void\ update()
+comment3.params=grid\ x\ y
+comment3.target=void\ sense(int[][],\ int,\ int)
+comment4.params=
+comment4.target=Creature\ clone()
+numComments=5

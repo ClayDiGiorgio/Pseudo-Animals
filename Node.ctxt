@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Node\ here.\r\n\ \r\n\ @author\ Clay\ DiGiorgio\ \r\n\ @version\ 2.0\r\n
+comment1.params=
+comment1.target=Node()
+comment2.params=amt
+comment2.target=int\ addExcitement(int)
+comment3.params=amt
+comment3.target=void\ subtractExcitement(int)
+comment4.params=
+comment4.target=int\ getExcitement()
+comment5.params=ownIndex\ connectionCount
+comment5.target=Node(int,\ int)
+comment6.params=
+comment6.target=java.util.ArrayList\ update()
+comment7.params=
+comment7.target=Node\ clone()
+comment8.params=c
+comment8.target=Node(java.util.ArrayList)
+numComments=9

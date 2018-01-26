@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Constants
+comment0.text=\r\n\ Contains\ all\ of\ the\ constants\ used\ in\ this\ program\ for\ easy\ adjustment.\ This\ is\ like\ the\ config\r\n\ file\ for\ the\ whole\ program.\r\n\ \r\n\ @author\ Clay\ DiGiorgio\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Constants()
+numComments=2

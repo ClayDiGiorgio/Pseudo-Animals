@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Line
+comment0.text=\r\n\ This\ class\ stores\ all\ the\ information\ needed\ to\ draw\ a\ specific\ line.\r\n\ \r\n\ @author\ Clay\ DiGiorgio\r\n\ @version\ 1.0\r\n
+comment1.params=a\ b\ a2\ b2\ thick\ c
+comment1.target=Line(int,\ int,\ int,\ int,\ int,\ java.awt.Color)
+numComments=2

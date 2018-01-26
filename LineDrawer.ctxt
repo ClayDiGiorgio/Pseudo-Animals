@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LineDrawer
+comment0.text=\r\n\ Draws\ the\ specified\ lines\ in\ the\ specified\ Graphics\ object\r\n\ \r\n\ @author\ Clay\ DiGiorgio\r\n\ @version\ 1.0\r\n
+comment1.params=g
+comment1.target=void\ paintConnections(java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+numComments=3

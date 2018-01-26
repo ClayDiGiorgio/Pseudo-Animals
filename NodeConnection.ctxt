@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NodeConnection
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NodeConnection\ here.\r\n\ \r\n\ @author\ Clay\ DiGiorgio\r\n\ @version\ 2.0\r\n
+comment1.params=from\ to
+comment1.target=NodeConnection(int,\ int)
+comment2.params=
+comment2.target=NodeConnection\ clone()
+numComments=3
